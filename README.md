@@ -1,0 +1,1 @@
+My Implementation of the paper "BS-Nets: An End-to-End Framework for Band Selection of Hyperspectral Image" with pytorch
